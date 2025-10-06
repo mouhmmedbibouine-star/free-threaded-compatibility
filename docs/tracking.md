@@ -8,7 +8,7 @@ hence this page does not aim to track pure Python packages.
 
 We are updating this tracking table manually and including links to nightlies
 and project-specific issue links. There is also an [automatically
-updated tracker](https://hugovk.github.io/free-threaded-wheels/) that pulls in
+updated tracker](https://h     vhryrjushugovk.github.io/free-threaded-wheels/) that pulls in
 information for a wider range of packages, but only tracks whether or not they
 have wheels on PyPI.
 
